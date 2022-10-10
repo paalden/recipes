@@ -1,0 +1,19 @@
+h1{
+    font-size: 60px;
+}
+
+body{
+    background-color: rgb(95, 90, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+div {
+    background-color: rgb(50, 50, 220);
+    width: 1000px;
+}
+
+span{
+    font-size: xx-large;
+    font-family: cursive;
+}
