@@ -14,13 +14,16 @@ body{
     color: whitesmoke;
 }
 
-div {
-    text-align: left;
-    background-color: rgb(50, 50, 220);
-    width: 1000px;
-}
 
 span{
     font-size: xx-large;
     font-family: cursive;
+}
+
+.header{
+display:flex;
+align-items: center;
+justify-content: center;
+
+
 }
